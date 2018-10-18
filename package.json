@@ -1,5 +1,5 @@
 {
-  "name": "REST Boilerplate",
+  "name": "REST_Boilerplate",
   "version": "1.0.0",
   "author": "Francisco Javier Perez Rodriguez",
   "description": "Meteor/Express REST Boilerplate",
@@ -28,16 +28,12 @@
     "jquery": "^3.3.1",
     "lodash": "^4.17.10",
     "meteor-node-stubs": "^0.4.1",
-    "moment": "^2.22.2",
-    "multer": "^1.3.0",
-    "multer-s3": "^2.7.0",
     "promise": "^8.0.1",
     "qs": "^6.5.2",
     "redis": "^2.8.0",
     "restify": "^7.2.1",
     "subscriptions-transport-ws": "^0.9.11",
     "tracker-component": "^1.3.21",
-    "uuid": "^3.2.1"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
